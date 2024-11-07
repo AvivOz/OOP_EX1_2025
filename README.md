@@ -1,3 +1,5 @@
+## Aviv Oz
+
 # Reversi Game Implementation
 
 This project involves creating an expanded version of the strategic board game **Reversi**, implemented on an 8x8 board with special disc types. The goal is to apply Object-Oriented Programming (OOP) principles while creating a functional and interactive game that follows the rules specified.
